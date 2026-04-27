@@ -139,7 +139,7 @@ function ProjectCard({ project }) {
         </p>
         <p className="text-xs text-slate-400 mt-0.5 mb-2">{project.subtitle}</p>
         <div className="flex gap-1.5 flex-wrap">
-          {project.tags.slice(0, 4).map((tag) => (
+          {project.tags.slice(0, 6).map((tag) => (
             <span key={tag} className="tag text-[10px]">
               {tag}
             </span>

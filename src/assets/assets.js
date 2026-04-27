@@ -175,7 +175,7 @@ export const projects = [
     title: "CCTV-AI",
     subtitle: "CCTV Dashboard AI-Powered",
     description: "AI-powered Network Video Recorder that streams RTSP/HLS cameras, runs YOLO object detection and OpenCLIP semantic search on captured frames, and serves a live dashboard — all containerized and ready to run with a single command.",
-    tags: ["Python", "Security", "React", "AI"],
+    tags: ["Python", "Security", "React", "AI", "YOLO", "OpenCLIP", "Docker"],
     image: cctvAI,
     repoUrl: null,
     liveUrl: "https://youtu.be/o7WPZumCoto",
