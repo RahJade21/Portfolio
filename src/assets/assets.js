@@ -38,6 +38,7 @@ import bankWeb from "./images/bankWeb.png"
 import vhisingWeb from "./images/vhisingWeb.png"
 import movieWeb from "./images/movieWeb.png"
 import cctvWeb from "./images/cctvWeb.png"
+import cctvAI from "./images/cctvAI.png"
 import secureSignWeb from "./images/secureSignWeb.png"
 import ctfWriteup from "./images/ctfWriteup.png"
 
@@ -86,22 +87,22 @@ export const education = [
 export const experience = [
   {
     id: 1,
-    role: "IT Security Intern",
+    role: "IT Intern",
     company: "PT Telkom Indonesia",
-    period: "Sep 2025 – Present",
-    description: "gained knowledge in IoT architecture, including sensor systems, communication protocols such as LoRaWAN and MQTT, and data flow from devices to dashboards and fundamental of AWS cloud infrastructure.",
-    tags: ["Cloud", "Networking", "DevOps"],
+    period: "Sep 2025 – Apr 2026",
+    description: "gained knowledge in IoT architecture, including sensor systems, communication protocols, AI vision, and fundamental of AWS cloud infrastructure.",
+    tags: ["Cloud", "Networking", "IoT", "AI"],
     companyUrl: "https://www.telkom.co.id/",
   },
-  {
-    id: 2,
-    role: "Freelance Web Developer",
-    company: "Independent",
-    period: "Jan 2025 – Present",
-    description: "Delivered 5+ web projects as personal projects. Focused on secure, performant, and accessible web applications.",
-    tags: ["React", "TailwindCSS", "Git"],
-    companyUrl: null,
-  },
+  // {
+  //   id: 2,
+  //   role: "Freelance Web Developer",
+  //   company: "Independent",
+  //   period: "Jan 2025 – Present",
+  //   description: "Delivered 5+ web projects as personal projects. Focused on secure, performant, and accessible web applications.",
+  //   tags: ["React", "TailwindCSS", "Git"],
+  //   companyUrl: null,
+  // },
   {
     id: 3,
     role: "CTF Writeup",
@@ -110,6 +111,15 @@ export const experience = [
     description: "Developed and published writeup as a team for the President University CTF competition.",
     tags: ["Burp Suite", "Linux", "Autopsy", "Python"],
     companyUrl: null,
+  },
+  {
+    id: 4,
+    role: "Designer",
+    company: "CV. Leo Printing",
+    period: "June 2021 - Nov 2021",
+    description: "Design marketing materials according to client needs and carry out print production.",
+    tags: ["CorelDraw", "Adobe Illustrator", "Photoshop"],
+    companyUrl: "https://share.google/QJ3RmidnfdClCMfzV",
   },
 ];
 
@@ -163,12 +173,12 @@ export const projects = [
   {
     id: 1,
     title: "CCTV-AI",
-    subtitle: "DCCTV Dashboard AI-Powered",
+    subtitle: "CCTV Dashboard AI-Powered",
     description: "AI-powered Network Video Recorder that streams RTSP/HLS cameras, runs YOLO object detection and OpenCLIP semantic search on captured frames, and serves a live dashboard — all containerized and ready to run with a single command.",
     tags: ["Python", "Security", "React", "AI"],
-    image: secureSignWeb,
-    repoUrl: "https://github.com/RahJade21/cctv-ai-documentation",
-    liveUrl: null,
+    image: cctvAI,
+    repoUrl: null,
+    liveUrl: "https://youtu.be/o7WPZumCoto",
     featured: true,
   },
   {

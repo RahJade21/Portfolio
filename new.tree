@@ -1,0 +1,77 @@
+├── .env
+├── .gitignore
+├── eslint.config.js
+├── index.html
+├── new.tree
+├── package-lock.json
+├── package.json
+├── public
+│  └── profile_fav.svg
+├── README.md
+├── src
+│  ├── App.css
+│  ├── App.jsx
+│  ├── assets
+│  │  ├── assets.js
+│  │  ├── icons
+│  │  │  ├── amazonwebservices-original-wordmark.svg
+│  │  │  ├── apache-original.svg
+│  │  │  ├── autopsy-original.svg
+│  │  │  ├── burpsuite.png
+│  │  │  ├── burpsuite.svg
+│  │  │  ├── docker-original.svg
+│  │  │  ├── figma-original.svg
+│  │  │  ├── firebase-original.svg
+│  │  │  ├── flutter-original.svg
+│  │  │  ├── git-original.svg
+│  │  │  ├── github-original.svg
+│  │  │  ├── grafana-original.svg
+│  │  │  ├── illustrator-original.svg
+│  │  │  ├── javascript-original.svg
+│  │  │  ├── kalilinux-original.svg
+│  │  │  ├── linkedin-original.svg
+│  │  │  ├── linux-original.svg
+│  │  │  ├── mysql-original.svg
+│  │  │  ├── photoshop-original.svg
+│  │  │  ├── php-original.svg
+│  │  │  ├── postgresql-original.svg
+│  │  │  ├── postman-original.svg
+│  │  │  ├── python-original.svg
+│  │  │  ├── react-original.svg
+│  │  │  ├── splunk-original-wordmark.svg
+│  │  │  ├── tailwindcss-original.svg
+│  │  │  ├── terraform-original.svg
+│  │  │  ├── vercel-original.svg
+│  │  │  ├── vscode-original.svg
+│  │  │  └── wireshark-original.svg
+│  │  ├── images
+│  │  │  ├── bankWeb.png
+│  │  │  ├── CardProfile.jpg
+│  │  │  ├── cctvAI.png
+│  │  │  ├── cctvWeb.png
+│  │  │  ├── ctfWriteup.png
+│  │  │  ├── movieWeb.png
+│  │  │  ├── nikeWeb.png
+│  │  │  ├── secureSignWeb.png
+│  │  │  ├── SideProfile.jpg
+│  │  │  └── vhisingWeb.png
+│  │  └── pdf
+│  │    └── resume.pdf
+│  ├── components
+│  │  ├── Certifications.jsx
+│  │  ├── Contact.jsx
+│  │  ├── Education.jsx
+│  │  ├── Experience.jsx
+│  │  ├── Footer.jsx
+│  │  ├── Hero.jsx
+│  │  ├── Navbar.jsx
+│  │  ├── Organizations.jsx
+│  │  ├── Projects.jsx
+│  │  ├── SocialIcons.jsx
+│  │  └── TechStack.jsx
+│  ├── hooks
+│  │  └── useAnimations.js
+│  ├── index.css
+│  ├── main.jsx
+│  └── public
+└── vite.config.js
