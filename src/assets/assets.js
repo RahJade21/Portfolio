@@ -44,13 +44,13 @@ import ctfWriteup from "./images/ctfWriteup.png"
 
 export const profile = {
   name: "Ngurah Jaya Deva",
-  title: "Cybersecurity Engineer & Web Developer",
+  title: "Cybersecurity & Full-Stack Developer",
   subtitle: "Building secure systems.",
-  bio: "Passionate about building secure, scalable web applications and protecting digital infrastructure. I bridge the gap between offensive security and modern web development.",
+  bio: "passionate about building secure, scalable web applications and protecting digital infrastructure. I bridge the gap between offensive security and modern web development.",
   location: "Jakarta, Indonesia",
   email: "jayadeva2121@gmail.com",
   phone: "+62 859-7780-3802",
-  resumeUrl: "https://drive.google.com/file/d/1Pk5LFw8RjgO1oyxDT8MYnw_TmuorVTBL/view?usp=drive_link",
+  resumeUrl: "https://drive.google.com/file/d/1D2I6ZTJSihiB4EbCzwQhT11nSLrI75W2/view?usp=sharing",
   cardProfileUrl: cardProfile,
   avatarUrl: sideProfile,
   avatarInitials: "JD",
@@ -58,7 +58,7 @@ export const profile = {
 
 export const socials = [
   { id: 1, label: "GitHub",   url: "https://github.com/RahJade21",    icon: "github"    },
-  { id: 2, label: "LinkedIn", url: "linkedin.com/in/ngurah-jaya-deva-5b401528b/",  icon: "linkedin"  },
+  { id: 2, label: "LinkedIn", url: "https://www.linkedin.com/in/ngurah-jaya-deva-5b401528b/",  icon: "linkedin"  },
   { id: 3, label: "Instagram",url: "https://instagram.com/jayadeva.21", icon: "instagram" },
   { id: 4, label: "Email",    url: "mailto:jayadeva2121@gmail.com",icon: "mail"      },
 ];
