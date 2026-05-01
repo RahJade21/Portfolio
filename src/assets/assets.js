@@ -114,7 +114,7 @@ export const experience = [
   },
   {
     id: 4,
-    role: "Designer",
+    role: "Graphic Designer",
     company: "CV. Leo Printing",
     period: "June 2021 - Nov 2021",
     description: "Design marketing materials according to client needs and carry out print production.",
