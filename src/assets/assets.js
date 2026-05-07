@@ -50,7 +50,7 @@ export const profile = {
   location: "Jakarta, Indonesia",
   email: "jayadeva2121@gmail.com",
   phone: "+62 859-7780-3802",
-  resumeUrl: "https://drive.google.com/file/d/1D2I6ZTJSihiB4EbCzwQhT11nSLrI75W2/view?usp=sharing",
+  resumeUrl: "https://drive.google.com/file/d/1JbgaTWct04Y8L7P8q68SqNM4WUSCfeNX/view?usp=drive_link",
   cardProfileUrl: cardProfile,
   avatarUrl: sideProfile,
   avatarInitials: "JD",
