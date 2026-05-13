@@ -90,7 +90,7 @@ export const experience = [
     role: "IT Intern",
     company: "PT Telkom Indonesia",
     period: "Sep 2025 – Apr 2026",
-    description: "gained knowledge in IoT architecture, including sensor systems, communication protocols, AI vision, and fundamental of AWS cloud infrastructure.",
+    description: "Worked on IoT, AI, and cloud-based solutions involving sensor systems, communication protocols, AI vision, and AWS cloud infrastructure. Also participated as an exhibitor at INTI JIEXPO 2025, presenting IoT solutions and learning about industry partnerships such as Netmore LoRaWAN connectivity services and smart utility monitoring systems.",
     tags: ["Cloud", "Networking", "IoT", "AI"],
     companyUrl: "https://www.telkom.co.id/",
   },
